@@ -1,0 +1,46 @@
+* {
+    text-align:center;
+}
+
+
+h1,h2 {
+    font-family: monospace;
+    font-size: 32px;
+    background-color: aqua;
+}
+
+ul {
+    font-family:sans-serif;
+    list-style-type: none;
+    background-color: orange;
+    width: 50%;
+    margin: auto;
+}
+
+ol{
+    font-family:sans-serif;
+    background-color: skyblue;
+    width: 80%;
+    margin: auto;
+}
+
+li {
+    font-size: 20px;
+    font-weight:600;
+    padding: 10px 0;
+}
+
+a {
+    color: #222;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+a:hover {
+    color: beige;
+}
+
+p{
+    font-size: 18px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}

@@ -1,7 +1,12 @@
 * {
-    text-align:center;
+    text-align: center;
 }
 
+body {
+    width: 70%;
+    margin: auto;
+    margin-bottom: 20px;
+}
 
 h1,h2 {
     font-family: monospace;
@@ -13,14 +18,12 @@ ul {
     font-family:sans-serif;
     list-style-type: none;
     background-color: orange;
-    width: 50%;
     margin: auto;
 }
 
 ol{
     font-family:sans-serif;
     background-color: skyblue;
-    width: 80%;
     margin: auto;
 }
 
